@@ -1,0 +1,26 @@
+Breast Cancer Prediction Dataset
+
+Project: Breast Cancer Prediction using Machine Learning
+
+Features Used:
+1. Radius Mean
+2. Texture Mean
+3. Perimeter Mean
+4. Area Mean
+
+Target Variable:
+0 = Malignant (Cancerous)
+1 = Benign (Non-Cancerous)
+
+Algorithm:
+Random Forest Classifier
+
+Libraries:
+- pandas
+- numpy
+- scikit-learn
+- streamlit
+- pickle
+
+Purpose:
+To predict whether a tumor is Benign or Malignant based on medical measurements.
